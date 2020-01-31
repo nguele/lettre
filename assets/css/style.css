@@ -1,0 +1,28 @@
+body{
+	text-align: justify;
+width: 800px;
+margin: auto;
+padding: 60px;
+box-shadow: 0 0 100px; 
+}
+p{
+ font-size: medium;
+}
+p.date{
+	text-align: right;
+}
+p.information{
+	text-align: left;
+}
+p.destinataire{
+	text-align: center;
+}
+p.debut{
+	text-align: center;
+}
+p.signature{
+	text-align: right;
+}
+footer{
+	background-image: 
+}
