@@ -4,10 +4,9 @@ body{
 	margin: auto;
 	padding: 60px;
 	box-shadow: 0 0 10px;
-	color: blue;
+	font color: blue;
 	font-family: "Segoe Script";
 	font-size: medium;
-	
 }
 p{
  font-size: medium;
@@ -31,6 +30,6 @@ footer{
 	background-image: 
 }
 img{ position:relative;
-right:-550px;
-top: -120px;
+right:-600px;
+top: -1100px;
 }

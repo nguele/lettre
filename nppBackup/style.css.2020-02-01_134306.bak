@@ -31,6 +31,6 @@ footer{
 	background-image: 
 }
 img{ position:relative;
-right:-550px;
-top: -120px;
+right:-600px;
+top: -100px;
 }

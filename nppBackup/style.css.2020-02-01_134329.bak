@@ -32,5 +32,5 @@ footer{
 }
 img{ position:relative;
 right:-550px;
-top: -120px;
+top: -110px;
 }
